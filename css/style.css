@@ -1,0 +1,96 @@
+@import url('https://fonts.googleapis.com/css2?family=Preahvihear&display=swap');
+
+body {
+    font-family: 'Preahvihear', sans-serif;
+}
+
+nav {
+    background: #064153;
+    color: black;
+    padding: 10px;
+    width: 30%;
+    text-align: center;
+    margin: auto;
+}
+
+.imagen {
+    text-align: center;
+    padding: 5px;
+}
+
+.banner {
+    background-image: url('../img/fondo.jpg');
+    background-size: contain;
+    padding-top: 150px;
+}
+
+.texto-banner {
+    color: white;
+    text-align: center;
+    padding-bottom: 10px;
+}
+
+.perfil {
+    text-align: center;
+}
+
+.linea-encabezado {
+    background: silver;
+    color: #005677;
+    text-transform: uppercase;
+}
+
+.texto-perfil {
+    text-align: justify;
+}
+
+.items {
+    font-style: italic;
+    font-weight: bold;
+}
+
+.lista-anio,
+.sub-lista {
+    list-style: none;
+    padding: 0;
+    margin: 0;
+}
+
+.anio {
+    margin-bottom: 20px;
+}
+
+.sub-lista {
+    margin-top: 5px;
+    margin-left: 20px;
+}
+
+.texto-negrita {
+    font-weight: bold;
+}
+
+.espacio-izq {
+    margin-left: 78px;
+}
+
+footer {
+    text-align: center;
+    text-transform: uppercase;
+    font-weight: bold;
+    background: #005677;
+    color: #ffffff;
+    padding: 8px;
+    position:fixed;
+    bottom: 0;
+    width: 100%;
+}
+
+.img-footer {
+    padding-left: 10px;
+    padding-right: 10px;
+}
+
+a {
+    color: #FFFFFF;
+
+}
