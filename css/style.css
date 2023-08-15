@@ -13,6 +13,10 @@ nav {
     margin: auto;
 }
 
+.link {
+    margin: auto 10px;
+}
+
 .imagen {
     text-align: center;
     padding: 5px;
